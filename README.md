@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohammad-Mehdizade
+- 👋 Hi, I’m @Mohammad-Mehdizadeh
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning keras
 - 💞️ I’m looking to collaborate on ...
